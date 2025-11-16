@@ -1,0 +1,43 @@
+{
+  "name": "moroccan-faker",
+  "version": "1.0.0",
+  "description": "Generate realistic Moroccan fake data for testing applications - names, addresses, phone numbers, CIN, and more",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "example": "node examples/basic-usage.js"
+  },
+  "keywords": [
+    "moroccan",
+    "morocco",
+    "faker",
+    "fake-data",
+    "test-data",
+    "generator",
+    "random",
+    "mock",
+    "maroc",
+    "cin",
+    "phone",
+    "address",
+    "arabic",
+    "french"
+  ],
+  "author": "CHERKAOUI-EL MALKI MOUAD <mouad.cherkaouielmalki@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ton-username/moroccan-faker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ton-username/moroccan-faker/issues"
+  },
+  "homepage": "https://github.com/ton-username/moroccan-faker#readme",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
