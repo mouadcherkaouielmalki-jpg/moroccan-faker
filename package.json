@@ -28,12 +28,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ton-username/moroccan-faker.git"
+    "url": "https://github.com/mouadcherkaouielmalki-jpg/moroccan-faker.git"
   },
   "bugs": {
-    "url": "https://github.com/ton-username/moroccan-faker/issues"
+    "url": "https://github.com/mouadcherkaouielmalki-jpg/moroccan-faker/issues"
   },
-  "homepage": "https://github.com/ton-username/moroccan-faker#readme",
+  "homepage": "https://github.com/mouadcherkaouielmalki-jpg/moroccan-faker#readme",
   "devDependencies": {
     "jest": "^29.0.0"
   },
