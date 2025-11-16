@@ -1,0 +1,152 @@
+[
+    {
+        "ville": "Casablanca",
+        "quartiers": [
+            "Maarif",
+            "Gauthier",
+            "Anfa",
+            "Ain Diab",
+            "Bourgogne",
+            "Racine",
+            "Hay Hassani",
+            "Sidi Moumen",
+            "Derb Sultan",
+            "Ain Sebaa"
+        ]
+    },
+    {
+        "ville": "Rabat",
+        "quartiers": [
+            "Agdal",
+            "Hassan",
+            "Océan",
+            "Hay Riad",
+            "Souissi",
+            "Yacoub El Mansour",
+            "Les Orangers",
+            "Aviation",
+            "Akkari",
+            "Diour Jamaa"
+        ]
+    },
+    {
+        "ville": "Marrakech",
+        "quartiers": [
+            "Guéliz",
+            "Hivernage",
+            "Médina",
+            "Palmeraie",
+            "Daoudiate",
+            "Massira",
+            "Targa",
+            "M'hamid",
+            "Sidi Youssef Ben Ali",
+            "Annexe"
+        ]
+    },
+    {
+        "ville": "Fès",
+        "quartiers": [
+            "Médina",
+            "Ville Nouvelle",
+            "Atlas",
+            "Narjiss",
+            "Bensouda",
+            "Saiss",
+            "Zouagha",
+            "Dar Dbibagh",
+            "Adarissa",
+            "Route d'Immouzer"
+        ]
+    },
+    {
+        "ville": "Tanger",
+        "quartiers": [
+            "Malabata",
+            "Médina",
+            "Centre Ville",
+            "Marchane",
+            "Ibéria",
+            "Boukhalef",
+            "Mghogha",
+            "California",
+            "Tanja Balia",
+            "Souani"
+        ]
+    },
+    {
+        "ville": "Agadir",
+        "quartiers": [
+            "Talborjt",
+            "Nouveau Talborjt",
+            "Centre Ville",
+            "Hay Mohammadi",
+            "Founty",
+            "Secteur Touristique",
+            "Tikiouine",
+            "Bensergao",
+            "Anza",
+            "Tilila"
+        ]
+    },
+    {
+        "ville": "Meknès",
+        "quartiers": [
+            "Hamria",
+            "Ville Nouvelle",
+            "Riad",
+            "Béni M'hamed",
+            "Toulal",
+            "Marjane",
+            "Médina",
+            "Vallée",
+            "Ouislane",
+            "Zitoune"
+        ]
+    },
+    {
+        "ville": "Oujda",
+        "quartiers": [
+            "Centre Ville",
+            "Lazaret",
+            "Al Qods",
+            "Sidi Maâfa",
+            "Hay El Wahda",
+            "Hay Moulay Youssef",
+            "Hay Essalam",
+            "Maghreb Al Arabi",
+            "Hay Al Farah",
+            "Ouled Amrane"
+        ]
+    },
+    {
+        "ville": "Kenitra",
+        "quartiers": [
+            "Centre Ville",
+            "Hay Salam",
+            "Ouled Oujih",
+            "Saknia",
+            "Mamora",
+            "Hay Al Maghrib",
+            "Aviation",
+            "Maamora",
+            "Médina",
+            "Bir Rami"
+        ]
+    },
+    {
+        "ville": "Tétouan",
+        "quartiers": [
+            "Médina",
+            "Ensanche",
+            "M'diq",
+            "Martil",
+            "Saniat Rmel",
+            "Mallaliyine",
+            "Aouama",
+            "Hay Skikima",
+            "Dersa",
+            "Azib Soldado"
+        ]
+    }
+]

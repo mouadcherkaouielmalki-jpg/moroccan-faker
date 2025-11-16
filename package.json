@@ -35,7 +35,7 @@
   },
   "homepage": "https://github.com/mouadcherkaouielmalki-jpg/moroccan-faker#readme",
   "devDependencies": {
-    "jest": "^29.0.0"
+    "jest": "^29.7.0"
   },
   "engines": {
     "node": ">=12.0.0"

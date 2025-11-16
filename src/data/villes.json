@@ -1,0 +1,218 @@
+[
+    {
+        "nom": "Casablanca",
+        "region": "Casablanca-Settat",
+        "codesPostaux": [
+            "20000",
+            "20100",
+            "20200",
+            "20300",
+            "20400"
+        ],
+        "prefixesTel": [
+            "0522",
+            "0523"
+        ]
+    },
+    {
+        "nom": "Rabat",
+        "region": "Rabat-Salé-Kénitra",
+        "codesPostaux": [
+            "10000",
+            "10100",
+            "10090"
+        ],
+        "prefixesTel": [
+            "0537"
+        ]
+    },
+    {
+        "nom": "Marrakech",
+        "region": "Marrakech-Safi",
+        "codesPostaux": [
+            "40000",
+            "40100",
+            "40150"
+        ],
+        "prefixesTel": [
+            "0524"
+        ]
+    },
+    {
+        "nom": "Fès",
+        "region": "Fès-Meknès",
+        "codesPostaux": [
+            "30000",
+            "30050"
+        ],
+        "prefixesTel": [
+            "0535"
+        ]
+    },
+    {
+        "nom": "Tanger",
+        "region": "Tanger-Tétouan-Al Hoceïma",
+        "codesPostaux": [
+            "90000",
+            "90100"
+        ],
+        "prefixesTel": [
+            "0539"
+        ]
+    },
+    {
+        "nom": "Agadir",
+        "region": "Souss-Massa",
+        "codesPostaux": [
+            "80000",
+            "80100"
+        ],
+        "prefixesTel": [
+            "0528"
+        ]
+    },
+    {
+        "nom": "Meknès",
+        "region": "Fès-Meknès",
+        "codesPostaux": [
+            "50000",
+            "50050"
+        ],
+        "prefixesTel": [
+            "0535"
+        ]
+    },
+    {
+        "nom": "Oujda",
+        "region": "L'Oriental",
+        "codesPostaux": [
+            "60000",
+            "60050"
+        ],
+        "prefixesTel": [
+            "0536"
+        ]
+    },
+    {
+        "nom": "Kenitra",
+        "region": "Rabat-Salé-Kénitra",
+        "codesPostaux": [
+            "14000",
+            "14050"
+        ],
+        "prefixesTel": [
+            "0537"
+        ]
+    },
+    {
+        "nom": "Tétouan",
+        "region": "Tanger-Tétouan-Al Hoceïma",
+        "codesPostaux": [
+            "93000"
+        ],
+        "prefixesTel": [
+            "0539"
+        ]
+    },
+    {
+        "nom": "Salé",
+        "region": "Rabat-Salé-Kénitra",
+        "codesPostaux": [
+            "11000",
+            "11100"
+        ],
+        "prefixesTel": [
+            "0537"
+        ]
+    },
+    {
+        "nom": "Mohammedia",
+        "region": "Casablanca-Settat",
+        "codesPostaux": [
+            "28000"
+        ],
+        "prefixesTel": [
+            "0523"
+        ]
+    },
+    {
+        "nom": "Béni Mellal",
+        "region": "Béni Mellal-Khénifra",
+        "codesPostaux": [
+            "23000"
+        ],
+        "prefixesTel": [
+            "0523"
+        ]
+    },
+    {
+        "nom": "El Jadida",
+        "region": "Casablanca-Settat",
+        "codesPostaux": [
+            "24000"
+        ],
+        "prefixesTel": [
+            "0523"
+        ]
+    },
+    {
+        "nom": "Khouribga",
+        "region": "Béni Mellal-Khénifra",
+        "codesPostaux": [
+            "25000"
+        ],
+        "prefixesTel": [
+            "0523"
+        ]
+    },
+    {
+        "nom": "Nador",
+        "region": "L'Oriental",
+        "codesPostaux": [
+            "62000"
+        ],
+        "prefixesTel": [
+            "0536"
+        ]
+    },
+    {
+        "nom": "Settat",
+        "region": "Casablanca-Settat",
+        "codesPostaux": [
+            "26000"
+        ],
+        "prefixesTel": [
+            "0523"
+        ]
+    },
+    {
+        "nom": "Laâyoune",
+        "region": "Laâyoune-Sakia El Hamra",
+        "codesPostaux": [
+            "70000"
+        ],
+        "prefixesTel": [
+            "0528"
+        ]
+    },
+    {
+        "nom": "Ksar El Kebir",
+        "region": "Tanger-Tétouan-Al Hoceïma",
+        "codesPostaux": [
+            "92000"
+        ],
+        "prefixesTel": [
+            "0539"
+        ]
+    },
+    {
+        "nom": "Essaouira",
+        "region": "Marrakech-Safi",
+        "codesPostaux": [
+            "44000"
+        ],
+        "prefixesTel": [
+            "0524"
+        ]
+    }
+]
