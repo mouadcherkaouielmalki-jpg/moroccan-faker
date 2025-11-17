@@ -28,7 +28,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mouadcherkaouielmalki-jpg/moroccan-faker.git"
+    "url": "git+https://github.com/mouadcherkaouielmalki-jpg/moroccan-faker.git"
   },
   "bugs": {
     "url": "https://github.com/mouadcherkaouielmalki-jpg/moroccan-faker/issues"
